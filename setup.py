@@ -9,5 +9,5 @@ setup(
     license='',
     author='hunter',
     author_email='',
-    description='utility package that lets you create functions only usable in tests'
+    description='utility package that lets you create functions only usable when testing'
 )
